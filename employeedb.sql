@@ -76,9 +76,7 @@ SELECT MAX(salary) AS highest_salary FROM Employeess;
 
 SELECT * FROM Employeess WHERE salary BETWEEN 60000 AND 75000;
 
-SELECT * FROM Employeess WHERE FirstName  IS NULL;
 
-SELECT * FROM Employeess WHERE FirstName  IS NOT NULL; 
 
 
 
